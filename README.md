@@ -99,4 +99,9 @@ These datasets were integrated, cleaned, and modeled in Power BI to extract insi
 - **Power BI Service** (for publishing and scheduling)
 
 ---
+## 🧑‍💻 Author
+
+**Rahul Yadav**  
+Aspiring Data Analyst | MySQL | Python | Excel | Power BI  
+[LinkedIn](https://www.linkedin.com/in/rahulyadav2707/)
 
